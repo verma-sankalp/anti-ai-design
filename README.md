@@ -105,7 +105,10 @@ Anti-ai-Design/
 │   ├── web-inspiration-curation.md   # Studying & translating top digital design references (Linear, Stripe, Apple)
 │   ├── micro-interactions-physics.md # Spring physics, magnetic buttons, and spotlight cards
 │   ├── advanced-3d-shaders.md        # Custom GLSL shaders and post-processing pipelines
-│   └── advanced-layering-glass.md    # Multi-pass glassmorphism and procedural noise grain
+│   ├── advanced-layering-glass.md    # Multi-pass glassmorphism and procedural noise grain
+│   ├── modern-design-aesthetics.md   # Bento grids, neumorphism, claymorphism, maximalism, and liquid glass
+│   ├── cursor-animations.md          # Animated cursor designs, dot/ring inertia, and hover transformations
+│   └── click-animations.md           # On-click animations, spring compression physics, and ripple effects
 ├── examples/                         # Visual direction examples
 │   ├── landing-page.md
 │   ├── dashboard.md

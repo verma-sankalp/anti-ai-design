@@ -69,6 +69,9 @@ Consult the specialized guides in the `references/` directory for deep dives on 
 - `references/micro-interactions-physics.md` — Spring physics, magnetic buttons, spotlight cards, and state feedback
 - `references/advanced-3d-shaders.md` — Custom GLSL shaders, post-processing, and refractive materials
 - `references/advanced-layering-glass.md` — Multi-pass glassmorphism, cinematic lighting, and procedural noise grain
+- `references/modern-design-aesthetics.md` — Bento grids, neumorphism, claymorphism, maximalism, and liquid glass
+- `references/cursor-animations.md` — Animated cursor designs, dot/ring inertia, and hover transformations
+- `references/click-animations.md` — On-click animations, spring compression physics, and ripple effects
 
 ---
 
