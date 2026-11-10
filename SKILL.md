@@ -65,6 +65,10 @@ Consult the specialized guides in the `references/` directory for deep dives on 
 - `references/interaction-design.md` — Micro-interactions and state feedback
 - `references/responsive-design.md` — Adaptive layouts across viewports
 - `references/accessibility-usability.md` — Inclusive design and WCAG standards
+- `references/web-inspiration-curation.md` — Studying & translating top digital design references (Awwwards, Linear, Stripe, Apple, Vercel)
+- `references/micro-interactions-physics.md` — Spring physics, magnetic buttons, spotlight cards, and state feedback
+- `references/advanced-3d-shaders.md` — Custom GLSL shaders, post-processing, and refractive materials
+- `references/advanced-layering-glass.md` — Multi-pass glassmorphism, cinematic lighting, and procedural noise grain
 
 ---
 

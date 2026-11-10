@@ -101,7 +101,11 @@ Anti-ai-Design/
 │   ├── color-theory.md
 │   ├── textures-materials.md
 │   ├── premium-ui-design.md
-│   └── accessibility-usability.md
+│   ├── accessibility-usability.md
+│   ├── web-inspiration-curation.md   # Studying & translating top digital design references (Linear, Stripe, Apple)
+│   ├── micro-interactions-physics.md # Spring physics, magnetic buttons, and spotlight cards
+│   ├── advanced-3d-shaders.md        # Custom GLSL shaders and post-processing pipelines
+│   └── advanced-layering-glass.md    # Multi-pass glassmorphism and procedural noise grain
 ├── examples/                         # Visual direction examples
 │   ├── landing-page.md
 │   ├── dashboard.md
