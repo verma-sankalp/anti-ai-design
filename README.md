@@ -16,7 +16,7 @@
 When left to default tendencies, AI coding assistants frequently generate sterile, template-driven interfaces: endless 3D card grids with soft drop shadows, royal blue-to-purple radial gradients, generic sans-serif typography (`Inter`), indiscriminate rounded corners (`rounded-2xl` on everything), and decorative glowing blobs. These patterns lack brand identity, storytelling, and emotional resonance.
 
 ### How This Skill Helps
-Anti-AI-Design equips AI coding agents with professional art direction, design principles, structured workflows, and reference libraries. It shifts the AI's mindset from *"generating functional scaffolding"* to *"crafting intentional, memorable digital experiences."*
+Anti-AI-Design equips AI coding agents with professional art direction, design principles, structured workflows, reference libraries, and **production-ready component code snippets** across **React / Tailwind**, **Vue (SFC)**, and **Vanilla CSS / HTML**. Whenever a user gives an open-ended prompt like *"make me a website on X"*, this skill automatically activates to reject generic AI scaffolding and craft top-tier, agency-grade digital experiences.
 
 ### Who Should Use It
 - **Developers & Founders** who want their AI-generated web apps and landing pages to look like they were built by a top-tier design studio.
@@ -88,8 +88,17 @@ Give your AI coding agent prompts such as:
 
 ```text
 Anti-ai-Design/
-├── SKILL.md                          # Main AI agent instruction file
+├── SKILL.md                          # Main AI agent instruction file (with auto-activation)
+├── components/                       # Production-ready component snippets
+│   ├── interactive-primitives.md     # Spotlight cards, magnetic buttons, noise overlays
+│   ├── form-elements.md              # Floating label inputs and high-craft toggles
+│   └── modals-overlays.md            # Cinematic modals and command palettes
+├── tools/                            # Automated quality control
+│   └── anti-ai-slop-checker.js       # Static analysis linter script for AI anti-patterns
+├── tokens/                           # Design token presets
+│   └── tailwind-preset.js            # Obsidian surfaces & editorial typography tokens
 ├── references/                       # Deep-dive design guides
+│   ├── portfolio-masterclass-3d.md   # Layered 3D Next.js + Three.js & GSAP portfolio blueprint
 │   ├── anti-ai-design-rules.md
 │   ├── visual-design.md
 │   ├── typography-design.md
